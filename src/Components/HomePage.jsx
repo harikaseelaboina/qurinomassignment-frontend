@@ -16,7 +16,7 @@ const HomePage = () => {
       return (
         <div style={gradientStyle}>
 
-        <h1> Welcome to E-Commerece Store</h1>
+        <h1> Welcome to E-Commerce Store</h1>
         <img src="https://res.cloudinary.com/dyylqn8vb/image/upload/v1706089288/gif3_v8fqnc.gif" alt="e-commerce" style={{width:"40%"}}/>
     <p> Instructions: you can use following login details:</p>
     <p> <span style={{fontWeight:"bold",color:"black"}}>  merchant logins </span>
